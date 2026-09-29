@@ -2,12 +2,9 @@
 
 ### Group number: Group 1
 ### Members:
-- Member 1
-- Member 2
-- Member 3
-- Member 4
-- Member 5
-- Member 6
+Viren Halweendo - 225089521
+Arnoth Shikukutu - 225170353
+Ralph Kamerika - 224008854
 
 This project is a Java implementation of the NUST Service Centre simulation.
 
